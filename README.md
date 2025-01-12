@@ -1,0 +1,1 @@
+the goal of this project is to use various machine learning techniques to create fictional pokemon. my goal is to display a solid understanding of image generation through diffusion models, text generation through RNNs, general data science techniques, and just an overall solid understanding of the ml basics all while making something cool
